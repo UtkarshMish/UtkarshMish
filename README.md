@@ -10,5 +10,5 @@ My motto is to be more smart than yesterday, if i have to i'll try to be smarter
 
 ## Get in touch
 - Twitter: [@Utkarsh04431411](https://twitter.com/Utkarsh04431411)
-- Personal site: https://decode.utkarsh.bss.design 
+- Personal site: https://decodeutkarsh.bss.design 
 - LinkedIn: https://www.linkedin.com/in/utkarsh-mishra-38498b173
