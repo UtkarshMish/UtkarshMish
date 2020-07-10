@@ -1,16 +1,14 @@
-### Hi there 👋
+# Utkarsh Mishra -- @UtkarshMish
+Hi, I'm Utkarsh—a Full Stack Web Developer to support open source sustainability.  I'm a huge nerd/geek, a connoisseur of music, and aesthete. 💕
 
-<!--
-**UtkarshMish/UtkarshMish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My values
+🙌 Always Original<br>
+🍏 Hungry Mindset and curiosity<br>
 
-Here are some ideas to get you started:
+## How I work
+My motto is to be more smart than yesterday, if i have to i'll try to be smarter than half a day ago, even a minute ago ! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- Twitter: [@Utkarsh04431411](https://twitter.com/Utkarsh04431411)
+- Personal site: https://decode.utkarsh.bss.design 
+- LinkedIn: https://www.linkedin.com/in/utkarsh-mishra-38498b173
