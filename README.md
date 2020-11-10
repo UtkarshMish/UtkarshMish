@@ -13,6 +13,6 @@ My motto is to be more smart than yesterday, if i have to i'll try to be smarter
 - Personal site: https://decodeutkarsh.bss.design 
 - LinkedIn: https://www.linkedin.com/in/utkarsh-mishra-38498b173
 <br/>
-[![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmish)](https://github.com/UtkarshMish)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshmish)]
 <br/>
-![Utkarsh Mishra's Github Stats] (https://github-readme-stats.vercel.app/api?username=utkarshmish&count_private=true&show_icons=true)
+![Utkarsh Mishra's Github Stats](https://github-readme-stats.vercel.app/api?username=utkarshmish&count_private=true&show_icons=true)
