@@ -1,5 +1,5 @@
 # Utkarsh Mishra -- @UtkarshMish
-Hi, I'm Utkarsh—a Full Stack Web Developer to support open source sustainability.  I'm a huge nerd/geek, a connoisseur of music, and aesthete. 💕
+Hi, I'm Utkarsh—a Software Engineer Intern. I'm a Computer System Enthusiast, a connoisseur of music, and aesthete. 💕
 
 ### My values
 🙌 Always Original<br>
