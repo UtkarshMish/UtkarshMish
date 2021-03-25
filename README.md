@@ -1,5 +1,5 @@
 # Utkarsh Mishra -- @UtkarshMish
-Hi, I'm Utkarsh—a Software Engineer Intern. I'm a Computer System Enthusiast, a connoisseur of music, and aesthete. 💕
+Hi, I'm Utkarsh—a GET Open Source Developer at NPCI. I'm a Computer System Enthusiast, a connoisseur of music, and aesthete. 💕
 
 ### My values
 🙌 Always Original<br>
